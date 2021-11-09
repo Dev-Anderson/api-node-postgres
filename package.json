@@ -1,0 +1,23 @@
+{
+  "name": "api-node-postgres",
+  "version": "1.0.0",
+  "description": "API nodeJS com o banco de dados Postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Anderson/api-node-postgres.git"
+  },
+  "author": "Anderson da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-Anderson/api-node-postgres/issues"
+  },
+  "homepage": "https://github.com/Dev-Anderson/api-node-postgres#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
